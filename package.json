@@ -1,0 +1,22 @@
+{
+  "name": "ta24-website-vite-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "alpinejs": "^3.14.9",
+    "axios": "^1.9.0",
+    "tailwindcss": "^4.1.7"
+  }
+}
